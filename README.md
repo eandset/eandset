@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on optimization games<br>🌱 I’m currently learning ECS DOTS Unity<br>💫 I wanna learn Rust<br>⚡ I`m started learn programming in 13 years and I use Arch btw 
 
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36629)](https://codetime.dev)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1141628503897407538) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@eandse) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@eandset) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@eandset) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@StrongEditorTeam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrejmisurin1@gmail.com) 
