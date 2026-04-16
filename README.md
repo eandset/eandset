@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on optimization games<br>🌱 I’m currently learning ECS DOTS Unity<br>💫 I wanna learn Rust<br>⚡ I`m started learn programming in 13 years and I use Arch btw 
+🔭 I’m currently working on optimization games<br>🌱 I’m currently learning ECS DOTS Unity<br>💫 I wanna learn Rust<br>⚡ I started learn programming in 13 years and I use Arch btw 
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36629)](https://codetime.dev)
 
