@@ -2,9 +2,9 @@
 🔭 Занимаюсь созданием игровых механик в **Unity**<br>🌱 В текущее время изучаю **DOTS Unity**, **VR Unity** и **ASP.NET**<br>💫 Хочу начать изучать **Rust** и создавать приколюхи **CLI** **CUI**\**TUI**<br>⚡ Кстати, я начал заниматься программированием в 13 лет<br><br> _**I use Arch (CachyOS) btw<br>(Windows 11 also)**_
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eandset/eandset/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eandset/eandset/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eandset/eandset/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## 🌐 Socials:
