@@ -23,10 +23,12 @@ jobs:
     steps:
       # Генерирует змейку из графа вкладов пользователя
       - name: generate-snake-game
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+
           outputs: |
+            dist/github-snake.svg
             dist/github-snake.svg?color_snake=pink&color_dots=fbcfe8,f472b6,ec4899,db2777,be185d
             dist/github-snake-dark.svg?color_snake=pink&color_dots=fbcfe8,f472b6,ec4899,db2777,be185d
           
