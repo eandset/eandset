@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Занимаюсь созданием игровых механик в **Unity**<br>🌱 В текущее время изучаю **DOTS Unity**, **VR Unity** и **ASP.NET**<br>💫 Хочу начать изучать **Rust** и создавать приколюхи **CLI** **CUI**\**TUI**<br>⚡ Кстати, я начал заниматься программированием в 13 лет<br><br> _**I use Arch (CachyOS) btw<br>(Windows 11 also)**_
+🔭 Занимаюсь созданием игровых механик в **Unity**<br>🌱 В текущее время изучаю **DOTS Unity**, **VR Unity** и **ASP.NET**<br>💫 Хочу начать изучать **Rust** и создавать приколюхи **CLI** **CUI** \ **TUI** <br>⚡ Кстати, я начал заниматься программированием в 13 лет<br><br> _**I use Arch (CachyOS) btw<br>(Windows 11 also)**_
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/eandset/eandset/output/github-snake-dark.svg">
